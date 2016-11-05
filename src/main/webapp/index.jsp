@@ -17,7 +17,7 @@
 <!--//theme-style-->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="柔术米,横叉,被动训练,艺术体操" />
+<meta name="keywords" content="柔术米,横叉,被动训练,艺术体操,msplits" />
 <!-- start menu -->
 <script type='text/javascript' src="${pageContext.request.contextPath}/js/jquery-1.11.1.min.js"></script>
 <script type="text/javascript" src="${pageContext.request.contextPath}/js/bootstrap.js"></script>
